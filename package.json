@@ -1,0 +1,20 @@
+{
+    "name": "com.shortstak.marrowrecreatedshaders",
+	"version": "1.0.0",
+    "displayName": "Marrow Recreated Shaders",
+    "description": "Shaders originally used in BONELAB, now recreated using Amplify Shader Editor.",
+	"unity": "2021.3",
+	"dependencies": {
+    },
+	"keywords": [
+		"slz",
+		"shortstak",
+		"shaders"
+	],
+	"license": "MIT",
+	"author": {
+		"name": "ShortStak"
+	},
+	"unityRelease": "15f1",
+	"hideInEditor": false
+}
